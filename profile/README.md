@@ -8,7 +8,7 @@ We're a Cairo-based cloud and software team and an **AWS Select Tier Services Pa
 
 ### What we do
 
-| | |
+| Service | What we do |
 |---|---|
 | **AWS funding programs** | We check eligibility and prepare MAP, POC and Activate applications with you. |
 | **AWS migration** | Move real workloads from other clouds or hosting to AWS, planned and costed in writing. |
