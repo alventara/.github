@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://alventara.io"><img src="./banner.svg" alt="Alventara — Build on AWS. Funded by AWS." width="100%"></a>
+  <a href="https://alventara.io"><img src="./banner.png" alt="Alventara — Build on AWS. Funded by AWS." width="100%"></a>
 </p>
 
 ### Hi, we're Alventara 👋
